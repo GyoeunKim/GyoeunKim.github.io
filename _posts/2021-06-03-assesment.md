@@ -29,8 +29,8 @@ int year,month,day,result;
  
  ~~~
  
- ### 02. 3개의 터널 통과
- ~~~c 
+### 02. 3개의 터널 통과
+~~~c 
 #include <stdio.h> 
 int main(void) 
 { 
