@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "유튜브 동영상 삽입하기"
+title: "This is my favorite song"
 toc: true
 toc_sticky: true
-toc_label: "페이지 주요 목차"
+toc_label: "목차"
 ---
 
 ### 01. Butter
@@ -11,3 +11,7 @@ toc_label: "페이지 주요 목차"
 
 ### 02. Dynamite
 {% include video id="gdZLi9oWNZg" provider="youtube" %}
+
+### 03. Best of Me
+{% include video id="CPtCYoQ4_1A" provider="youtube" %}
+
